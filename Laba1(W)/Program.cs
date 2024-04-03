@@ -13,7 +13,7 @@ if (x > 0 && x <= 2)
 }
 else
 {
-    Console.WriteLine("Ошибка");
+    Console.WriteLine("Ошибка"); 
 }
 
 
